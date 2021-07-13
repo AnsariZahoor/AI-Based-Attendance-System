@@ -15,3 +15,12 @@ Desktop application that monitors student attendance using face recognition.
 
 5. At the end of the month teacher can generate defaulter list.
 
+
+## Technology stack
+
+| Element   | Description   | 
+| :-------- | :------- |
+| **Python** | Programming language |
+| **Tkinter** |  This package Used for creating desktop application   |
+| **OpenCV** | Computer vision library used for face recognition|
+| **MySQL** | SQL database used for stored student attendance |
